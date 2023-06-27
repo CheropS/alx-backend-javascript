@@ -7,7 +7,7 @@ The directory contains codes for Promises
 [0-promise.js](/0-promise.js)
 The file Return a Promise using this prototype function getResponseFromAPI()
 
-[](/1-promise.js)
+[Promise](/1-promise.js)
 using the prototype to return a promise. Parameter is a boolean
 ## Author
 Sharry Cherop
