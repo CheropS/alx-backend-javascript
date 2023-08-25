@@ -11,6 +11,6 @@ creates a function named displayMessage that prints in STDOUT the string argumen
 * [1-stdin.js](1-stdin.js "1-stdin.js")
 Dislays the msg "welcome to Holberton school, what is your name?"
 should display "Your name is: INPUT"
-* [0-console.js](0-console.js "0-console.js")
+* [2-read_file.js](2-read_file.js "2-read_file.js")
 * [0-console.js](0-console.js "0-console.js")
 * [0-console.js](0-console.js "0-console.js")
