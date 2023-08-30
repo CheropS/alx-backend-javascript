@@ -1,5 +1,5 @@
 {
-    "name": "8-api",
+    "name": "10-api",
     "version": "1.0.0",
     "description": "A simple API for learning basic integration testing in NodeJS.",
     "main": "api.js",
@@ -13,7 +13,7 @@
     },
     "devDependencies": {
         "chai": "^4.2.0",
-        "mocha": "^6.2.2",
+        "mocha": "^6.2.3",
         "request": "^2.88.0",
         "sinon": "^7.5.0"
     },
